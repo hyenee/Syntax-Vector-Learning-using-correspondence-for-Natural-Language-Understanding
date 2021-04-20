@@ -1,4 +1,4 @@
-# Syntax-Vector-Learning-using-correspondence-for-Natural-Language-Understanding
+# Syntax Vector Learning using correspondence for Natural Language Understanding
 
 
 # Experiments
