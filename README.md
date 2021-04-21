@@ -4,7 +4,7 @@
 # Experiments
 
 ## Dataset statistics
-<img src="https://user-images.githubusercontent.com/33437627/115404718-8d6c2b00-a228-11eb-8027-f2d57ca62660.PNG" width="90%">
+<img src="https://user-images.githubusercontent.com/33437627/115518441-1d5eb300-a2c3-11eb-8389-fa7f5ce49ea4.PNG" width="90%">
 
 
 ## Effectiveness of learned syntax vector
