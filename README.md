@@ -43,6 +43,6 @@ Table shows the predicted results according to the distances in the vector space
 
 :chart_with_upwards_trend: [link](https://github.com/hyenee/Syntax-Vector-Learning-using-correspondence-for-Natural-Language-Understanding/blob/main/appendix/Appendix_D.pdf)
 
-This appendix contains additional results achieved on more datasets.
+This appendix contains correlations between cosine similarity and syntax similarity results achieved on more datasets: Weather, Navi, SNIPS, Sim-M, Sim-R, NLUE.
 
 ![image](https://user-images.githubusercontent.com/33437627/115555903-03d16180-a2eb-11eb-8468-6cbccf43e5da.png)
