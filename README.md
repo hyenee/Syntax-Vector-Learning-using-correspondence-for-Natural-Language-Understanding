@@ -1,7 +1,20 @@
 # Syntax Vector Learning using correspondence for Natural Language Understanding
 
-**Paper** : ~
+:pushpin: [[Paper]](https://ieeexplore.ieee.org/abstract/document/9448015)
 
+## How to cite
+```{bibtex}
+@ARTICLE{9448015,
+    author={Seo, Hyein and Jung, Sangkeun and Hwang, Taewook and Kim, Hyunji and Roh, Yoon-Hyung},
+    journal={IEEE Access},
+    title={Syntax Vector Learning Using Correspondence for Natural Language Understanding},
+    year={2021},
+    volume={9},
+    number={},
+    pages={84067-84078},
+    doi={10.1109/ACCESS.2021.3087271}}
+}
+```
 
 ## :green_book: Dataset statistics
 <img src="https://user-images.githubusercontent.com/33437627/115518441-1d5eb300-a2c3-11eb-8389-fa7f5ce49ea4.PNG" width="90%">
@@ -23,7 +36,7 @@
 
 ##  APPENDIX B
 
-:bar_chart: [link](https://github.com/hyenee/Syntax-Vector-Learning-using-correspondence-for-Natural-Language-Understanding/blob/main/appendix/Appendix_B.pdf)
+:bar_chart: [APPENDIX B](https://github.com/hyenee/Syntax-Vector-Learning-using-correspondence-for-Natural-Language-Understanding/blob/main/appendix/Appendix_B.pdf)
 
 This appendix provides additional graphs of the relationship between similarities in Weather, Navi, SNIPS, SIm-M, SIm-R, and NLUE datasets.
 
@@ -32,7 +45,7 @@ This appendix provides additional graphs of the relationship between similaritie
 
 ## APPENDIX C
 
-:1234: [link](https://github.com/hyenee/Syntax-Vector-Learning-using-correspondence-for-Natural-Language-Understanding/blob/main/appendix/Appendix_C.pdf)
+:1234: [APPENDIX C](https://github.com/hyenee/Syntax-Vector-Learning-using-correspondence-for-Natural-Language-Understanding/blob/main/appendix/Appendix_C.pdf)
 
 This appendix reports the syntax search scores for every task and model that we proposed in this paper.
 Table shows the predicted results according to the distances in the vector space.
@@ -42,8 +55,13 @@ Table shows the predicted results according to the distances in the vector space
 
 ## APPENDIX D
 
-:chart_with_upwards_trend: [link](https://github.com/hyenee/Syntax-Vector-Learning-using-correspondence-for-Natural-Language-Understanding/blob/main/appendix/Appendix_D.pdf)
+:chart_with_upwards_trend: [APPENDIX D](https://github.com/hyenee/Syntax-Vector-Learning-using-correspondence-for-Natural-Language-Understanding/blob/main/appendix/Appendix_D.pdf)
 
 This appendix contains correlations between cosine similarity and syntax similarity results achieved on more datasets: Weather, Navi, SNIPS, Sim-M, Sim-R, NLUE.
 
 ![image](https://user-images.githubusercontent.com/33437627/115555903-03d16180-a2eb-11eb-8468-6cbccf43e5da.png)
+
+
+
+## Contact
+Please reachout to hyenee97@gmail.com for any questions.
