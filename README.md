@@ -2,8 +2,13 @@
 
 :pushpin: [[Paper]](https://ieeexplore.ieee.org/abstract/document/9448015)
 
+**Authors**: Hyein Seo, Sangkeun Jung, Taewook Hwang, Hyunji Kim, Yoon-Hyung Roh
+
+**Institution**: Chungnam National University ([Intelligent Software Laboratory](http://isoft.cnu.ac.kr/))
+
+
 ## How to cite
-```{bibtex}
+```bibtex
 @ARTICLE{9448015,
     author={Seo, Hyein and Jung, Sangkeun and Hwang, Taewook and Kim, Hyunji and Roh, Yoon-Hyung},
     journal={IEEE Access},
